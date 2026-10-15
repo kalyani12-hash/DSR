@@ -1,0 +1,22 @@
+{
+  "name": "ciel-by-dsr",
+  "version": "1.0.0",
+  "description": "CIEL by DSR - Luxury 3 BHK Residences in Gopanpally, Hyderabad",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve:py": "python server.py"
+  },
+  "keywords": [
+    "ciel",
+    "dsr",
+    "real-estate",
+    "landing-page",
+    "luxury-apartments",
+    "hyderabad"
+  ],
+  "author": "DSR Prime Spaces",
+  "license": "ISC"
+}
+
