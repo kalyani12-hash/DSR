@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "CIEL by DSR - Luxury 3 BHK Residences in Gopanpally, Hyderabad",
   "scripts": {
-    "build": "echo 'Build OK'",
+    "build": "node build.js",
     "start": "node local-server.js",
     "dev": "node local-server.js",
     "serve:py": "python server.py"
